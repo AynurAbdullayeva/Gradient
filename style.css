@@ -1,0 +1,11 @@
+.box{
+    height: 50vh;
+    width: 90%;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, rgb(238, 167, 36), rgb(145, 19, 145),rgb(82, 163, 196));
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 80px;
+    margin-top: 40px;
+}
